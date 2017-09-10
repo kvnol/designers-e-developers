@@ -1,19 +1,19 @@
 {
-  "name": "jekyll-boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "name": "designers-e-developers",
+  "version": "0.1.0",
+  "description": "Criando interfaces para web sem ninguém sair na porrada.",
   "main": "index.html",
   "scripts": {
     "start": "bundle exec jekyll serve --incremental"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kvnol/jekyll-boilerplate.git"
+    "url": "git+https://github.com/kvnol/designers-e-developers.git"
   },
   "author": "@kvnol",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kvnol/jekyll-boilerplate/issues"
+    "url": "https://github.com/kvnol/designers-e-developers/issues"
   },
-  "homepage": "https://github.com/kvnol/jekyll-boilerplate#readme"
+  "homepage": "https://github.com/kvnol/designers-e-developers#readme"
 }
