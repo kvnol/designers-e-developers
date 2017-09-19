@@ -1,9 +1,6 @@
-# Jekyll Boilerplate
-:zap: My boilerplate for Jekyll projects
-
-## Features
-
-* [Jekyll Compress HTML](https://github.com/penibelst/jekyll-compress-html) by [@penibelst](https://github.com/penibelst)
+<p align="center">
+  <img src="/assets/img/logo.png" alt="Designers &amp; developers">
+</p>
 
 ## License
 
